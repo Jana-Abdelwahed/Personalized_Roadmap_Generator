@@ -15,3 +15,4 @@ streamlit run src/app/streamlit_app.py
 - If you must write anything yourself: just set `OPENAI_API_KEY` in `.env`.
 - Rebuild the index from the sidebar to ingest seed URLs + local seeds.
 - Chat in the bottom input; messages render as colorful bubbles with avatars.
+# personalized_roadmap_rag_chat_ready
