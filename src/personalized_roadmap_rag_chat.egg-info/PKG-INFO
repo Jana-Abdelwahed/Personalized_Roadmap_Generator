@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: personalized-roadmap-rag-chat
+Version: 0.1.0
+Summary: API-connected Streamlit RAG app with ChatGPT-style colorful UI
+Requires-Python: >=3.10

@@ -1,0 +1,8 @@
+[project]
+name = "personalized-roadmap-rag-chat"
+version = "0.1.0"
+requires-python = ">=3.10"
+description = "API-connected Streamlit RAG app with ChatGPT-style colorful UI"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
